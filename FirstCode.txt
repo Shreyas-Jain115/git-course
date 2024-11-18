@@ -1,5 +1,5 @@
 Hello World !!
 take input from user
 add the values
-process data
+processig data data
 submit data to database
